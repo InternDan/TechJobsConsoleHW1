@@ -1,0 +1,11 @@
+C:\Users\buffa\Google Drive\lc101\Source\Repos\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.deps.json
+C:\Users\buffa\Google Drive\lc101\Source\Repos\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.runtimeconfig.json
+C:\Users\buffa\Google Drive\lc101\Source\Repos\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.runtimeconfig.dev.json
+C:\Users\buffa\Google Drive\lc101\Source\Repos\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.dll
+C:\Users\buffa\Google Drive\lc101\Source\Repos\TechJobsConsole\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.pdb
+C:\Users\buffa\Google Drive\lc101\Source\Repos\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.csprojResolveAssemblyReference.cache
+C:\Users\buffa\Google Drive\lc101\Source\Repos\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.csproj.CoreCompileInputs.cache
+C:\Users\buffa\Google Drive\lc101\Source\Repos\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.AssemblyInfoInputs.cache
+C:\Users\buffa\Google Drive\lc101\Source\Repos\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.AssemblyInfo.cs
+C:\Users\buffa\Google Drive\lc101\Source\Repos\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.dll
+C:\Users\buffa\Google Drive\lc101\Source\Repos\TechJobsConsole\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.pdb
